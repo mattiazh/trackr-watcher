@@ -1,1 +1,2246 @@
-{}
+{
+  "Germany Finance::1j0bwibj6d": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::1jge69jilh": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::2ekki4upvg": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::3bf64phbws": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::3mdn9bw7sy": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::5hfty8msit": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::7441y3oa7h": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::7v6ho0u2tn": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::83xpei0kkg": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::8fa6tllo8q": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::ab3xat5ox1": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::b105zmqy6u": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::c26xx5d6et": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::cdluaw9suh": {
+    "closing": "2026-11-13T00:00:00.000Z",
+    "opening": "2026-06-30T00:00:00.000Z"
+  },
+  "Germany Finance::d7ydw16k8z": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::dfpkj3cw3p": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::dqs45sncwd": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::f72tbozq0z": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::flbvzq6yt3": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::hfylzbwgl7": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::iou0cl6f0o": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::kmj581ckhs": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::koj1sfxqil": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::lyg09wp5op": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::n2za0cjzls": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::ok9dkydqai": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::pir1p1a6dq": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::q2pwgvsepj": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::rdznwzizui": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::skmduuwacv": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::v5b3cf98oy": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::v9j5a0imv1": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::wcknerabhz": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::wfhalmizs5": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::x4ssd56yjy": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::ykdk6u0i56": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::ypm3v6zf1f": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::zc5yn94ro1": {
+    "closing": null,
+    "opening": null
+  },
+  "Germany Finance::zecxfym8y3": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::0z8hmkenwi": {
+    "closing": null,
+    "opening": "2026-08-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::5ul4x12qkq": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::5wkbia6x4o": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::6zv33ddm38": {
+    "closing": null,
+    "opening": "2026-07-13T00:00:00.000Z"
+  },
+  "Hong Kong Finance::7bl7pbk19i": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::7svahowr87": {
+    "closing": null,
+    "opening": "2026-07-16T00:00:00.000Z"
+  },
+  "Hong Kong Finance::8giqidjxg2": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::a29pqcbfq9": {
+    "closing": "2026-09-30T00:00:00.000Z",
+    "opening": "2026-07-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::aqusqao4yx": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::b87zlh1xx1": {
+    "closing": null,
+    "opening": "2026-05-22T00:00:00.000Z"
+  },
+  "Hong Kong Finance::betppijr9h": {
+    "closing": null,
+    "opening": "2026-06-17T00:00:00.000Z"
+  },
+  "Hong Kong Finance::c506zq4vw0": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::cdwvibszp8": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::cgo0nwcwp9": {
+    "closing": "2026-05-27T00:00:00.000Z",
+    "opening": "2026-02-27T00:00:00.000Z"
+  },
+  "Hong Kong Finance::ckmc0mfbaw": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::cmyrkv998l": {
+    "closing": null,
+    "opening": "2026-07-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::czbar078zr": {
+    "closing": "2026-09-30T00:00:00.000Z",
+    "opening": "2026-06-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::d901l41b9l": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::de382bk4yo": {
+    "closing": null,
+    "opening": "2026-06-15T00:00:00.000Z"
+  },
+  "Hong Kong Finance::e1j7xkfh6h": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::e7y2r44j5b": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::er5m2y0dsk": {
+    "closing": null,
+    "opening": "2026-06-30T00:00:00.000Z"
+  },
+  "Hong Kong Finance::fatnkyy0ta": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::fmm51clvb1": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::fuxbrdnfm6": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::h8vox0waoi": {
+    "closing": "2026-09-30T00:00:00.000Z",
+    "opening": "2026-07-31T00:00:00.000Z"
+  },
+  "Hong Kong Finance::hqomrjgg90": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::iemhue4al6": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::if2uyb9945": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::iiru386x3s": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::jdv1hlp4r1": {
+    "closing": null,
+    "opening": "2026-07-06T00:00:00.000Z"
+  },
+  "Hong Kong Finance::jjx8yjwtta": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::jknmr6c9l3": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "Hong Kong Finance::jl85wm5qbq": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::jraraofh1x": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::jti6vs75mv": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::k9kzhtt3xb": {
+    "closing": null,
+    "opening": "2026-07-13T00:00:00.000Z"
+  },
+  "Hong Kong Finance::ko12p6ee5f": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::kz8j731sr8": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::l377k62hsa": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::lg2uyus1wg": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::lkbqjutf8o": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::m3yn16ovnx": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::m684um3ozo": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::mbth32ptbp": {
+    "closing": "2026-10-30T00:00:00.000Z",
+    "opening": "2026-07-06T00:00:00.000Z"
+  },
+  "Hong Kong Finance::mya89wytmj": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::na1bi4msts": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::nb08dmc1fb": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::ng5wom3608": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::o1qlosyukj": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::omky7f3m96": {
+    "closing": null,
+    "opening": "2026-06-30T00:00:00.000Z"
+  },
+  "Hong Kong Finance::otcncc9o5s": {
+    "closing": "2026-12-01T00:00:00.000Z",
+    "opening": "2026-07-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::ozo5bgprpz": {
+    "closing": null,
+    "opening": "2026-07-03T00:00:00.000Z"
+  },
+  "Hong Kong Finance::p8twuo81u3": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::pai5x002cn": {
+    "closing": null,
+    "opening": "2026-05-04T00:00:00.000Z"
+  },
+  "Hong Kong Finance::pfd8igcc70": {
+    "closing": "2026-11-08T00:00:00.000Z",
+    "opening": "2026-08-04T00:00:00.000Z"
+  },
+  "Hong Kong Finance::pkfvwmens8": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::pl1squugqk": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::puanwzkrm0": {
+    "closing": null,
+    "opening": "2026-08-07T00:00:00.000Z"
+  },
+  "Hong Kong Finance::qis03upocq": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::qqbhusct1g": {
+    "closing": "2026-05-27T00:00:00.000Z",
+    "opening": "2026-05-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::r2hrey23xt": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::rd96dmlony": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::rv72ikyajm": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::s0x7rwfbe2": {
+    "closing": null,
+    "opening": "2026-04-30T00:00:00.000Z"
+  },
+  "Hong Kong Finance::tx3gfh6gkh": {
+    "closing": null,
+    "opening": "2026-07-14T00:00:00.000Z"
+  },
+  "Hong Kong Finance::tym78pkt3z": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::uayvhzgxgy": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::uhgfmd9etn": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "Hong Kong Finance::uo211d6sw8": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::v02o5nax8v": {
+    "closing": null,
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "Hong Kong Finance::w4xlvzeuvn": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::wjx0rohy4n": {
+    "closing": null,
+    "opening": "2026-06-15T00:00:00.000Z"
+  },
+  "Hong Kong Finance::x0tiwlpaeh": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::x2hhrcnosb": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::x5nbgl56ph": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::xl1sojp8iv": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::xof18gf1uw": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::xopq5to0i1": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::ycyfbtrmuf": {
+    "closing": null,
+    "opening": "2026-06-19T00:00:00.000Z"
+  },
+  "Hong Kong Finance::yjdbuwh56d": {
+    "closing": null,
+    "opening": "2026-07-10T00:00:00.000Z"
+  },
+  "Hong Kong Finance::ykhz7gp378": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::yxa1agz0n9": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::z5s5lf5gza": {
+    "closing": null,
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "Hong Kong Finance::zat7g5fc27": {
+    "closing": null,
+    "opening": "2026-07-29T00:00:00.000Z"
+  },
+  "Hong Kong Finance::zjl6hjnzdm": {
+    "closing": null,
+    "opening": null
+  },
+  "Hong Kong Finance::zjv6wfqco3": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::36jiyb6sx2": {
+    "closing": "2026-10-16T00:00:00.000Z",
+    "opening": "2026-06-07T00:00:00.000Z"
+  },
+  "UK Finance::a1g6tsa2mi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::a4f0hws2s1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::a69wnq98uh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::a708ak3kpa": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::aayfza2mcj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::abmnsbyf12": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::acjoeaxfvp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::acrh43hawb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ad3lztlpb6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ae3m3m8c82": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::aiab45uqv1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::akn7aqzxhe": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "UK Finance::aou4ksbfee": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::apyw38vww4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::arqa3vd0rc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::asqixbxhe9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::atfsqxsv9d": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::auc03bktrg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::aug0u8w749": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::axuzqzfnhg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::azkakpq5av": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::azo61hhi68": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::b5h2vlmj7b": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::b5izv0o14h": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::b6p937hxf9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::b9tvd29igh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bb3ycc8voa": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bd2myaekvy": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::beiy6vsp8q": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bhspkdoik3": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bhtxmrk0ly": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bs8nsgxgt2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bsebgwj6le": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::bsnvfv9qsh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::byxw8zga6c": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c0wmvj8qon": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c10zc6rp2t": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c2zevtekgi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c4gjxz3nn4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c63hc5wd77": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::c7g4fk5rp9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::cbwmr2rodz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::cc39qt49iu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::cdg1tg94ta": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::chbmtdbpl0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ciol52e7i6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ckpsh50qw1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::clz09d8adr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::cm5khbvj1f": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ctm0in068j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::cxamkqkpx8": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "UK Finance::cy7vjr24s4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::d54muvlsjk": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::da9vcxm822": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dcglidzkau": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dcnv21q1ax": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dfevld4zx3": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dn9h185llq": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::don716l187": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dqhzub5g4a": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dt3wtfqpqg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::du29tzlzou": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dubw6kbl8c": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dueuynil40": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dyyl9ib68p": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dz866vnh0h": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::dzr243u4q0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::e16v4wdamh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::e18aos5dt7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::e3m7xup793": {
+    "closing": null,
+    "opening": "2026-06-01T00:00:00.000Z"
+  },
+  "UK Finance::e7s66y7vqb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::e9dmm1344n": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ea0zz8tiuw": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ebleh9fb9z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::epdmaollad": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::erihfcjatp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::esbb5g26se": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::esor0x2azb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::etpr8cn8rs": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ewjyw2o5q9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::exhuqzlxhm": {
+    "closing": null,
+    "opening": "2026-05-21T00:00:00.000Z"
+  },
+  "UK Finance::exvak3czfl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ez4juzixva": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::f0s3loy82w": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::f3nm6g2rm1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::f5tqkrqk8z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::f8uxqtk1jy": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fard0ap99i": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fe2i6kwkvq": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fh7e9eki8n": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fhjymdzi8w": {
+    "closing": null,
+    "opening": "2026-07-29T00:00:00.000Z"
+  },
+  "UK Finance::fhy62vq6u6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fiopvw973y": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fkdve7jxf5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::flg0id024v": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fnuxhnzv4f": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fqh4jjiwsn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::fs22g7rify": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ft3m2hxomj": {
+    "closing": null,
+    "opening": "2026-04-04T00:00:00.000Z"
+  },
+  "UK Finance::fv4i0rsutg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::g41kdiej54": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::g5lrugluuh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gbignl0m21": {
+    "closing": null,
+    "opening": "2026-07-31T00:00:00.000Z"
+  },
+  "UK Finance::gc9gpn82zu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ge7rgdh4cu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gfgk161pkv": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ggpemfigcg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ggprm6qx8i": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gm2jqd7nf4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gmu72ouize": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gp1wqbnqpr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::gr8jadtco5": {
+    "closing": null,
+    "opening": "2026-07-06T00:00:00.000Z"
+  },
+  "UK Finance::gzbfggud2m": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::h09z175evi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::h141nmytwp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::h4jw92wib1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::h6hoo3cydb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::haccbyr80o": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hcjw8a7q3a": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hdg6u6fiw5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hjccmw5by3": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hjv32e8dau": {
+    "closing": null,
+    "opening": "2026-08-05T00:00:00.000Z"
+  },
+  "UK Finance::ho7htxctdb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hu647l11hv": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::hx532hd8cw": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::i5ditgb79q": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::i69m4jp4qu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::i6vyr5sh3x": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ibe2ewlars": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ic7l70anjf": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::icy6ukpknj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ifa4g777x0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::igzfyg43go": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::iir7vv973l": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::im5xmznnq7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::inqmkxkwxu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::inr3pvtd84": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ioh6unf9t7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ip4c0gkom2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::iphvx1ttlp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::itmon9wb4z": {
+    "closing": null,
+    "opening": "2026-07-13T00:00:00.000Z"
+  },
+  "UK Finance::itufkflzif": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::iumphbd6bl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::iyocl5x6ux": {
+    "closing": "2026-09-14T00:00:00.000Z",
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "UK Finance::j0du02xc2g": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::j2ibyxkul8": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::j9bml0081h": {
+    "closing": null,
+    "opening": "2026-07-13T00:00:00.000Z"
+  },
+  "UK Finance::ja3ruuss1k": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jaxn3f8xxp": {
+    "closing": null,
+    "opening": "2026-05-27T00:00:00.000Z"
+  },
+  "UK Finance::jgbgdkn8pv": {
+    "closing": null,
+    "opening": "2026-07-23T00:00:00.000Z"
+  },
+  "UK Finance::jj4ud8v1p5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jjke2io9g0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jmomi39y30": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jp01p6e92w": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jpmj3ezzzo": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jvqp1omvr4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jvu629ro7q": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jxjtqqbiwa": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jy3r8dloa9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::jyb7ovz5je": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::k1bbbdj4vb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::k1sxt56fqr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::k20008uohn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::k4lz8xo47m": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::k8asf1h97h": {
+    "closing": null,
+    "opening": "2026-07-13T00:00:00.000Z"
+  },
+  "UK Finance::kaugw1nera": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kbeshj3j8g": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kbrgyn6z80": {
+    "closing": null,
+    "opening": "2026-06-11T00:00:00.000Z"
+  },
+  "UK Finance::ke74fora4p": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kgaz7t35du": {
+    "closing": null,
+    "opening": "2026-05-29T00:00:00.000Z"
+  },
+  "UK Finance::ki2ye9ze23": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kk8tgbn1mu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::km5u0yio7b": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kmgvblsyus": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::kmpvb19l8n": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::koc5rdttpk": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::krhnmlit2u": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ksedh1jacq": {
+    "closing": null,
+    "opening": "2026-06-15T00:00:00.000Z"
+  },
+  "UK Finance::kvtodecvpc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::l28bp19oez": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::l773lcjn4s": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::l9cxy1s0p4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::la4z9pe7bb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lb1022kzh5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lbrom5xar1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lfepu2ecy4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lhwn2offnc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lk5pk8ey90": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lkne03tuty": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "UK Finance::lnamuraem2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lofwodoeg3": {
+    "closing": null,
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "UK Finance::losyzouuc4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lpskj0okz1": {
+    "closing": null,
+    "opening": "2026-07-22T00:00:00.000Z"
+  },
+  "UK Finance::lqf7umgi4m": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lqy9sbesnd": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ls80h3yvi5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lslja0rnau": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::lyf3wh7xr1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::m175wbwe1c": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::m2eww31v2k": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::m4i6m8yfi1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ma6dlwvi1w": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::maqfd0rg5r": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::med04p8tyx": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::mg2wuyo7pv": {
+    "closing": "2026-10-30T00:00:00.000Z",
+    "opening": "2026-06-15T00:00:00.000Z"
+  },
+  "UK Finance::mhky4jpuco": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::mno7xwvia8": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::movntocu5j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::mqitm8a95w": {
+    "closing": "2026-06-02T00:00:00.000Z",
+    "opening": "2026-06-01T00:00:00.000Z"
+  },
+  "UK Finance::mr8evyv5i6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::mrj7k0ivdd": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::mvai4mbaih": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::my8ncwbg9k": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::n4lovdn4mr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::n4v69tcmek": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::n7rgnjtq94": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::na98tftepc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nbd23x2xe2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nges4j2ss5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ngndwrip8r": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::niw3zsn28z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::njh66pwkvk": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nk94lqpsx4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nm6hs23cj2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nqf2tv2w12": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ns8veuqs44": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nv019hrcqv": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nws0cqrwfc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nwym67d2by": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::nx5tp91e0i": {
+    "closing": null,
+    "opening": "2026-07-15T00:00:00.000Z"
+  },
+  "UK Finance::o1vkdelshm": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::o4ewmv15wn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::o4yuh9duy2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::o75mg75ucl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::o7nzqmb8a8": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::o94tw093pe": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::obx1gcj2je": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oew6bf55y1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::of3qunva8u": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ofjumq69ce": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ofqa5h2glb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oh7y43zboi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oqbqjs2d72": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oqlkt3kawj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ov9rqhadd8": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oxhgvuijlq": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oxiumx69hf": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::oy440jb8ep": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::p5ry62gg69": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::p6yvie0pik": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::p9ogue7894": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pcef45k85e": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pcv5hecqpx": {
+    "closing": "2026-10-11T00:00:00.000Z",
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "UK Finance::pegpg3vyvg": {
+    "closing": null,
+    "opening": "2026-07-21T00:00:00.000Z"
+  },
+  "UK Finance::pkd8satjw1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::plf9ptj35g": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ppoepzhhl6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ptdp3w0lho": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::puey98sh56": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pv2o3mjpz0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pv97z8l0ef": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pvn1wcbw3l": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::pxq146w78t": {
+    "closing": null,
+    "opening": "2026-07-02T00:00:00.000Z"
+  },
+  "UK Finance::q704jptfc9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::q87xb8gfb2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::q9xdqpetyg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qenvwl9xvn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qf1fmy9uio": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qgua0k1sb0": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qlvk04173j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qq9c7ufyrh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qsdoqob7x6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qsexspdrf8": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qtbxaaaqhm": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::quig4d87tl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qy3az3ysxe": {
+    "closing": null,
+    "opening": "2026-08-12T00:00:00.000Z"
+  },
+  "UK Finance::qzbods765y": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::qzljtoegcb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::r13ijes05m": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::r3m482qusd": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::r5noscwdgi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::r8b8ayj04j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rb96942jhs": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rca9chywkl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rcnjysntuc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rd3onmzp20": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rfey4f7mgn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rj9dou0y5g": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rn0va6jde6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ruduif38s1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::rwm4p1g45l": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::s07a4s0rpi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::s07se1yhgq": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::s0uo2eieep": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::s6irp58fdc": {
+    "closing": "2026-03-24T00:00:00.000Z",
+    "opening": "2026-02-26T00:00:00.000Z"
+  },
+  "UK Finance::s8s95z4rpy": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sb1fvxv3d6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sb2qos3wz4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::seznp26awp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::si17jqldqr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sjqwmquqea": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::slqbw22lrj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::solur51h9q": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sot5a54m4b": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sqaon0ffm5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sr9fyjnaeb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::srsc0rbgrz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sthu0dewso": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::svx4anr7pi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::sy6ujhpmmm": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t1pqcm4j5j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t2va5huukl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t2yo942imr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t4fif38x3d": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t5gw6v5yf6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::t6kidzr69g": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tawl9id98r": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tdtevotzeb": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::teth37ar9i": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tgf6wwrdfj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tgik24xlxt": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::thbak1wdfq": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tjm45wt1ka": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tk4mzv77bu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tmlue1jlu5": {
+    "closing": null,
+    "opening": "2026-07-01T00:00:00.000Z"
+  },
+  "UK Finance::tq7f2zzimo": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::trx5j32l37": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tsta2emevr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tu0w9qalfe": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::tuzf25ew1u": {
+    "closing": null,
+    "opening": "2026-08-03T00:00:00.000Z"
+  },
+  "UK Finance::twiav5mr2j": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::twwwd5dcrz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::u6u7g8623u": {
+    "closing": null,
+    "opening": "2026-04-03T00:00:00.000Z"
+  },
+  "UK Finance::u90ffc8sht": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ua2s6zlfxd": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::uhco25svzv": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ukoiuzk1z2": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ulgxdgimpl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::um6r0i2p0w": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::umt3vitaix": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::unybwca0bz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::upt44nsdkg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::usfmuvsk6w": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::usumgpqdd9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::uxbflsvgvz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::v2cq2pq6l4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::v6k3opwunl": {
+    "closing": null,
+    "opening": "2026-08-07T00:00:00.000Z"
+  },
+  "UK Finance::v9f07euc83": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::v9zvqe2c2u": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ver14sozvm": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vf402mk2y5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vilbyy5a0z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::viubj3bxgn": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vj02b0ggc6": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vmoxgl1hqi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vnejx51j82": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vou9rfeo4t": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::voyqktczs5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vrb6e3j24q": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vscaes1pb4": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vt4roqzr11": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vuog4dn46o": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vvndebzwb5": {
+    "closing": "2026-09-30T00:00:00.000Z",
+    "opening": "2026-06-30T00:00:00.000Z"
+  },
+  "UK Finance::vyml6kww9z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::vz48bwh47m": {
+    "closing": "2026-06-14T00:00:00.000Z",
+    "opening": "2026-03-02T00:00:00.000Z"
+  },
+  "UK Finance::w2av2m4l7c": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::w2i0kwnbkz": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::w422v28305": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::w51gh5yp3d": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wan7ar5jyb": {
+    "closing": null,
+    "opening": "2026-08-04T00:00:00.000Z"
+  },
+  "UK Finance::wcctkp084l": {
+    "closing": null,
+    "opening": "2026-08-01T00:00:00.000Z"
+  },
+  "UK Finance::wdgdzs85ha": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wdodi1co85": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::we02sc45ng": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wejolky8ln": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wf05enxp1m": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wfc4h37689": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wjpek44jr1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wx957fsiab": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::wzjjzgbnxs": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::x363ei4n3e": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::x3ops1ftx9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::x6yry9961v": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::x7ck2mfrwf": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::x7rffdyk80": {
+    "closing": "2026-09-07T00:00:00.000Z",
+    "opening": "2026-08-06T00:00:00.000Z"
+  },
+  "UK Finance::xakjokmg1n": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xdt1qjv0l9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xefxdf6yog": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xetcazb7wg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xfyqgkgvqu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xiil4fa6jd": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xjcbze30n9": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xjk8hu8wl7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xkma01okvy": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xltd0kmvdr": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xo0i0vm48f": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xol1zhqfwc": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xphn2iuqk5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xq0kqq87g7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xs9vqg4rnp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xudruqpl4v": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::xvndqdfnik": {
+    "closing": null,
+    "opening": "2026-07-31T00:00:00.000Z"
+  },
+  "UK Finance::xyn3tm5ytg": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::y3j1tl8p6b": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::y3w9g98r3u": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::y8ot4o9ay1": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::y9pu80zfum": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yayxb49x20": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yi8k8k7xf7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yjwcnlp7xl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ymu5cwti74": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ynef8w3hac": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ypjow3u7d7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yt95ur089k": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ywd6qq727f": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::ywq6th5esp": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yx7y1cnitj": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::yxtfxs3j3i": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::z2ebhtzs9s": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::z3igl8zoku": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::z6pc6xn0el": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::z8fh9wc9uf": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zbyismcu8o": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zdngpioe4z": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zju1cerqg5": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zld4199meu": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zm17cu7kxl": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zmu1npdfdi": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zo14nc37p9": {
+    "closing": null,
+    "opening": "2026-05-21T00:00:00.000Z"
+  },
+  "UK Finance::zobpz6my5d": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zoclv3wrrh": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zu2r2qvyh7": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zvz2wbd9sk": {
+    "closing": null,
+    "opening": null
+  },
+  "UK Finance::zzm581e112": {
+    "closing": null,
+    "opening": null
+  }
+}
