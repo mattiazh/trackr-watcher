@@ -1260,7 +1260,7 @@
     "opening": null
   },
   "UK Finance::lkne03tuty": {
-    "closing": null,
+    "closing": "2026-08-13T00:00:00.000Z",
     "opening": "2026-08-12T00:00:00.000Z"
   },
   "UK Finance::lnamuraem2": {
