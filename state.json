@@ -133,7 +133,7 @@
   },
   "Germany Finance::wfhalmizs5": {
     "closing": null,
-    "opening": null
+    "opening": "2026-08-17T00:00:00.000Z"
   },
   "Germany Finance::x4ssd56yjy": {
     "closing": null,
@@ -316,8 +316,8 @@
     "opening": null
   },
   "Hong Kong Finance::lg2uyus1wg": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-12-31T00:00:00.000Z",
+    "opening": "2026-08-17T00:00:00.000Z"
   },
   "Hong Kong Finance::lkbqjutf8o": {
     "closing": null,
@@ -997,7 +997,7 @@
   },
   "UK Finance::ho7htxctdb": {
     "closing": null,
-    "opening": null
+    "opening": "2026-08-17T00:00:00.000Z"
   },
   "UK Finance::hu647l11hv": {
     "closing": null,
@@ -1028,8 +1028,8 @@
     "opening": null
   },
   "UK Finance::icy6ukpknj": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-12-31T00:00:00.000Z",
+    "opening": "2026-08-17T00:00:00.000Z"
   },
   "UK Finance::ifa4g777x0": {
     "closing": null,
@@ -2193,7 +2193,7 @@
   },
   "UK Finance::z8fh9wc9uf": {
     "closing": null,
-    "opening": null
+    "opening": "2026-08-17T00:00:00.000Z"
   },
   "UK Finance::zbyismcu8o": {
     "closing": null,
