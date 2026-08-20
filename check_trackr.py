@@ -41,7 +41,13 @@ def fetch_board(board):
     url = API_BASE + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+        data = json.loads(resp.read().decode("utf-8"))
+    # The API used to return a bare list of programmes; it now wraps them
+    # in {"programmes": [...], "groups": [...]}. Support both shapes so a
+    # future change back doesn't break this again.
+    if isinstance(data, dict):
+        return data.get("programmes", [])
+    return data
 
 
 def load_state():
