@@ -32,8 +32,8 @@
     "opening": null
   },
   "Germany Finance::83xpei0kkg": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-01T00:00:00.000Z",
+    "opening": "2026-08-21T00:00:00.000Z"
   },
   "Germany Finance::8fa6tllo8q": {
     "closing": null,
@@ -1932,8 +1932,8 @@
     "opening": null
   },
   "UK Finance::vj02b0ggc6": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-01T00:00:00.000Z",
+    "opening": "2026-08-21T00:00:00.000Z"
   },
   "UK Finance::vmoxgl1hqi": {
     "closing": null,
