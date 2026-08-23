@@ -1136,8 +1136,8 @@
     "opening": null
   },
   "UK Finance::jvqp1omvr4": {
-    "closing": null,
-    "opening": null
+    "closing": "2027-03-01T00:00:00.000Z",
+    "opening": "2026-08-23T00:00:00.000Z"
   },
   "UK Finance::jvu629ro7q": {
     "closing": null,
