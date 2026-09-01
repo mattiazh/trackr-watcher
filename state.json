@@ -12,8 +12,8 @@
     "opening": null
   },
   "Germany Finance::3bf64phbws": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-11-01T00:00:00.000Z",
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "Germany Finance::3mdn9bw7sy": {
     "closing": null,
@@ -62,6 +62,10 @@
   "Germany Finance::dfpkj3cw3p": {
     "closing": null,
     "opening": null
+  },
+  "Germany Finance::dh9090suw3": {
+    "closing": "2026-11-01T00:00:00.000Z",
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "Germany Finance::dqs45sncwd": {
     "closing": null,
@@ -158,6 +162,10 @@
   "Hong Kong Finance::0z8hmkenwi": {
     "closing": null,
     "opening": "2026-08-01T00:00:00.000Z"
+  },
+  "Hong Kong Finance::56cpcz6q62": {
+    "closing": "2026-09-11T00:00:00.000Z",
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "Hong Kong Finance::5ul4x12qkq": {
     "closing": null,
@@ -760,8 +768,8 @@
     "opening": null
   },
   "UK Finance::ciol52e7i6": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-11-01T00:00:00.000Z",
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::ckpsh50qw1": {
     "closing": null,
@@ -882,6 +890,10 @@
   "UK Finance::epdmaollad": {
     "closing": null,
     "opening": null
+  },
+  "UK Finance::ergfokxpj2": {
+    "closing": "2026-10-04T00:00:00.000Z",
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "UK Finance::erihfcjatp": {
     "closing": null,
@@ -1397,7 +1409,7 @@
   },
   "UK Finance::med04p8tyx": {
     "closing": null,
-    "opening": null
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "UK Finance::mg2wuyo7pv": {
     "closing": "2026-10-30T00:00:00.000Z",
@@ -2052,8 +2064,8 @@
     "opening": null
   },
   "UK Finance::vuog4dn46o": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-04T00:00:00.000Z",
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "UK Finance::vvndebzwb5": {
     "closing": "2026-09-30T00:00:00.000Z",
@@ -2146,6 +2158,10 @@
   "UK Finance::x7rffdyk80": {
     "closing": "2026-09-07T00:00:00.000Z",
     "opening": "2026-08-06T00:00:00.000Z"
+  },
+  "UK Finance::xad7q8cjqa": {
+    "closing": "2026-10-04T00:00:00.000Z",
+    "opening": "2026-08-31T00:00:00.000Z"
   },
   "UK Finance::xakjokmg1n": {
     "closing": null,
