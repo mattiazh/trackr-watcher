@@ -661,7 +661,7 @@
   },
   "UK Finance::apyw38vww4": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::arqa3vd0rc": {
     "closing": null,
@@ -1164,8 +1164,8 @@
     "opening": null
   },
   "UK Finance::iir7vv973l": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-02T00:00:00.000Z",
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::im5xmznnq7": {
     "closing": null,
@@ -1422,6 +1422,10 @@
   "UK Finance::lyf3wh7xr1": {
     "closing": null,
     "opening": null
+  },
+  "UK Finance::m04ecmm7nx": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::m175wbwe1c": {
     "closing": null,
@@ -2052,8 +2056,8 @@
     "opening": "2026-08-24T00:00:00.000Z"
   },
   "UK Finance::ver14sozvm": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-16T00:00:00.000Z",
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::vf402mk2y5": {
     "closing": null,
@@ -2100,8 +2104,8 @@
     "opening": null
   },
   "UK Finance::vscaes1pb4": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-20T00:00:00.000Z",
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::vt4roqzr11": {
     "closing": null,
