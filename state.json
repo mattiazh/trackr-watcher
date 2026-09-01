@@ -163,6 +163,10 @@
     "closing": null,
     "opening": "2026-08-01T00:00:00.000Z"
   },
+  "Hong Kong Finance::39ngu7aeha": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
+  },
   "Hong Kong Finance::56cpcz6q62": {
     "closing": "2026-09-11T00:00:00.000Z",
     "opening": "2026-09-01T00:00:00.000Z"
@@ -563,6 +567,10 @@
     "closing": "2026-11-15T00:00:00.000Z",
     "opening": "2026-08-31T00:00:00.000Z"
   },
+  "UK Finance::4b5c8ysadv": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
+  },
   "UK Finance::7hcdw0f751": {
     "closing": null,
     "opening": "2026-08-31T00:00:00.000Z"
@@ -642,6 +650,10 @@
   "UK Finance::asqixbxhe9": {
     "closing": null,
     "opening": null
+  },
+  "UK Finance::at7ppeflvq": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::atfsqxsv9d": {
     "closing": null,
@@ -942,6 +954,10 @@
   "UK Finance::f8uxqtk1jy": {
     "closing": null,
     "opening": null
+  },
+  "UK Finance::f9z38d0inb": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::fard0ap99i": {
     "closing": null,
@@ -1809,7 +1825,7 @@
   },
   "UK Finance::si17jqldqr": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::sjqwmquqea": {
     "closing": null,
@@ -1923,6 +1939,10 @@
     "closing": null,
     "opening": null
   },
+  "UK Finance::ttip3y3fi6": {
+    "closing": null,
+    "opening": "2026-09-01T00:00:00.000Z"
+  },
   "UK Finance::tu0w9qalfe": {
     "closing": null,
     "opening": null
@@ -2013,7 +2033,7 @@
   },
   "UK Finance::vf402mk2y5": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::vgoizstq6i": {
     "closing": "2026-10-31T00:00:00.000Z",
@@ -2205,7 +2225,7 @@
   },
   "UK Finance::xo0i0vm48f": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::xol1zhqfwc": {
     "closing": "2026-10-16T00:00:00.000Z",
