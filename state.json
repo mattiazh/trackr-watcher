@@ -1179,6 +1179,10 @@
     "closing": null,
     "opening": null
   },
+  "UK Finance::ioeo5uln8y": {
+    "closing": null,
+    "opening": null
+  },
   "UK Finance::ioh6unf9t7": {
     "closing": null,
     "opening": null
@@ -1549,7 +1553,7 @@
   },
   "UK Finance::nws0cqrwfc": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-01T00:00:00.000Z"
   },
   "UK Finance::nwym67d2by": {
     "closing": null,
