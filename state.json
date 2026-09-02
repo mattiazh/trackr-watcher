@@ -31,6 +31,10 @@
     "closing": null,
     "opening": null
   },
+  "Germany Finance::7z746g1vn4": {
+    "closing": null,
+    "opening": "2026-09-02T00:00:00.000Z"
+  },
   "Germany Finance::83xpei0kkg": {
     "closing": "2026-10-01T00:00:00.000Z",
     "opening": "2026-08-21T00:00:00.000Z"
@@ -38,6 +42,14 @@
   "Germany Finance::8fa6tllo8q": {
     "closing": null,
     "opening": null
+  },
+  "Germany Finance::8m9gcrf1gn": {
+    "closing": null,
+    "opening": "2026-09-02T00:00:00.000Z"
+  },
+  "Germany Finance::9x2lymvf79": {
+    "closing": null,
+    "opening": "2026-09-02T00:00:00.000Z"
   },
   "Germany Finance::ab3xat5ox1": {
     "closing": null,
@@ -57,7 +69,7 @@
   },
   "Germany Finance::d7ydw16k8z": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-02T00:00:00.000Z"
   },
   "Germany Finance::dfpkj3cw3p": {
     "closing": null,
@@ -146,6 +158,10 @@
   "Germany Finance::x4ssd56yjy": {
     "closing": null,
     "opening": null
+  },
+  "Germany Finance::yecxr5xzns": {
+    "closing": null,
+    "opening": "2026-09-02T00:00:00.000Z"
   },
   "Germany Finance::ykdk6u0i56": {
     "closing": null,
@@ -1485,7 +1501,7 @@
   },
   "UK Finance::mrj7k0ivdd": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-02T00:00:00.000Z"
   },
   "UK Finance::mvai4mbaih": {
     "closing": "2026-09-27T00:00:00.000Z",
@@ -1724,8 +1740,8 @@
     "opening": "2026-08-27T00:00:00.000Z"
   },
   "UK Finance::qgua0k1sb0": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-09-16T00:00:00.000Z",
+    "opening": "2026-09-02T00:00:00.000Z"
   },
   "UK Finance::qlvk04173j": {
     "closing": null,
