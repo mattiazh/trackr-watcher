@@ -1408,8 +1408,8 @@
     "opening": null
   },
   "UK Finance::lhwn2offnc": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-11-08T00:00:00.000Z",
+    "opening": "2026-09-04T00:00:00.000Z"
   },
   "UK Finance::lk5pk8ey90": {
     "closing": null,
