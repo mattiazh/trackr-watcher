@@ -391,6 +391,10 @@
     "closing": null,
     "opening": null
   },
+  "Hong Kong Finance::nfoj6kd9t3": {
+    "closing": "2026-10-16T00:00:00.000Z",
+    "opening": "2026-09-04T00:00:00.000Z"
+  },
   "Hong Kong Finance::ng5wom3608": {
     "closing": null,
     "opening": null
@@ -550,6 +554,10 @@
   "UK Finance::0072a2odck": {
     "closing": null,
     "opening": "2026-08-24T00:00:00.000Z"
+  },
+  "UK Finance::0ji574xrj5": {
+    "closing": "2026-09-30T00:00:00.000Z",
+    "opening": "2026-09-04T00:00:00.000Z"
   },
   "UK Finance::0raizvznqa": {
     "closing": null,
@@ -998,6 +1006,10 @@
   "UK Finance::fard0ap99i": {
     "closing": null,
     "opening": null
+  },
+  "UK Finance::fcvsiigfi3": {
+    "closing": "2026-10-30T00:00:00.000Z",
+    "opening": "2026-09-04T00:00:00.000Z"
   },
   "UK Finance::fe2i6kwkvq": {
     "closing": null,
@@ -1649,7 +1661,7 @@
   },
   "UK Finance::oxhgvuijlq": {
     "closing": null,
-    "opening": null
+    "opening": "2026-09-04T00:00:00.000Z"
   },
   "UK Finance::oxiumx69hf": {
     "closing": null,
