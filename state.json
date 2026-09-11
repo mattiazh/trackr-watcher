@@ -291,6 +291,10 @@
     "closing": null,
     "opening": null
   },
+  "Hong Kong Finance::gmbxygwllk": {
+    "closing": "2026-10-31T00:00:00.000Z",
+    "opening": "2026-09-11T00:00:00.000Z"
+  },
   "Hong Kong Finance::h8vox0waoi": {
     "closing": "2026-09-30T00:00:00.000Z",
     "opening": "2026-07-31T00:00:00.000Z"
@@ -1432,8 +1436,8 @@
     "opening": null
   },
   "UK Finance::l9cxy1s0p4": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-16T00:00:00.000Z",
+    "opening": "2026-09-11T00:00:00.000Z"
   },
   "UK Finance::la4z9pe7bb": {
     "closing": null,
