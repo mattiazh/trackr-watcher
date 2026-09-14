@@ -187,6 +187,10 @@
     "closing": null,
     "opening": "2026-09-01T00:00:00.000Z"
   },
+  "Hong Kong Finance::3qlcvnwrjq": {
+    "closing": "2026-10-31T00:00:00.000Z",
+    "opening": "2026-09-14T00:00:00.000Z"
+  },
   "Hong Kong Finance::56cpcz6q62": {
     "closing": "2026-09-11T00:00:00.000Z",
     "opening": "2026-09-01T00:00:00.000Z"
@@ -214,6 +218,10 @@
   "Hong Kong Finance::8giqidjxg2": {
     "closing": null,
     "opening": null
+  },
+  "Hong Kong Finance::9ncm2tia2d": {
+    "closing": "2026-10-31T00:00:00.000Z",
+    "opening": "2026-09-14T00:00:00.000Z"
   },
   "Hong Kong Finance::a29pqcbfq9": {
     "closing": "2026-09-30T00:00:00.000Z",
@@ -279,6 +287,10 @@
     "closing": null,
     "opening": "2026-06-30T00:00:00.000Z"
   },
+  "Hong Kong Finance::ez44uho8w6": {
+    "closing": "2026-10-31T00:00:00.000Z",
+    "opening": "2026-09-14T00:00:00.000Z"
+  },
   "Hong Kong Finance::fatnkyy0ta": {
     "closing": null,
     "opening": null
@@ -340,8 +352,8 @@
     "opening": "2026-08-30T00:00:00.000Z"
   },
   "Hong Kong Finance::jraraofh1x": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-31T00:00:00.000Z",
+    "opening": "2026-09-14T00:00:00.000Z"
   },
   "Hong Kong Finance::jti6vs75mv": {
     "closing": null,
@@ -420,8 +432,8 @@
     "opening": "2026-07-03T00:00:00.000Z"
   },
   "Hong Kong Finance::p8twuo81u3": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-25T00:00:00.000Z",
+    "opening": "2026-09-14T00:00:00.000Z"
   },
   "Hong Kong Finance::pai5x002cn": {
     "closing": null,
@@ -468,7 +480,7 @@
     "opening": "2026-04-30T00:00:00.000Z"
   },
   "Hong Kong Finance::tx3gfh6gkh": {
-    "closing": null,
+    "closing": "2026-09-13T00:00:00.000Z",
     "opening": "2026-07-14T00:00:00.000Z"
   },
   "Hong Kong Finance::tym78pkt3z": {
@@ -524,7 +536,7 @@
     "opening": null
   },
   "Hong Kong Finance::ycyfbtrmuf": {
-    "closing": null,
+    "closing": "2026-09-13T00:00:00.000Z",
     "opening": "2026-06-19T00:00:00.000Z"
   },
   "Hong Kong Finance::yjdbuwh56d": {
@@ -1636,8 +1648,8 @@
     "opening": null
   },
   "UK Finance::nm6hs23cj2": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-18T00:00:00.000Z",
+    "opening": "2026-09-10T00:00:00.000Z"
   },
   "UK Finance::nqf2tv2w12": {
     "closing": null,
