@@ -820,8 +820,8 @@
     "opening": null
   },
   "UK Finance::abmnsbyf12": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-10-23T00:00:00.000Z",
+    "opening": "2026-10-13T00:00:00.000Z"
   },
   "UK Finance::acjoeaxfvp": {
     "closing": null,
