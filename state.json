@@ -1244,7 +1244,7 @@
     "opening": "2026-09-11T00:00:00.000Z"
   },
   "UK Finance::f8uxqtk1jy": {
-    "closing": "2026-11-06T00:00:00.000Z",
+    "closing": "2026-10-17T00:00:00.000Z",
     "opening": "2026-10-16T00:00:00.000Z"
   },
   "UK Finance::f9z38d0inb": {
@@ -2388,8 +2388,8 @@
     "opening": null
   },
   "UK Finance::teth37ar9i": {
-    "closing": null,
-    "opening": null
+    "closing": "2026-11-06T00:00:00.000Z",
+    "opening": "2026-10-19T00:00:00.000Z"
   },
   "UK Finance::tgf6wwrdfj": {
     "closing": null,
