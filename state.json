@@ -1955,6 +1955,10 @@
     "closing": "2026-09-21T00:00:00.000Z",
     "opening": "2026-08-28T00:00:00.000Z"
   },
+  "UK Finance::nhgwemeg2i": {
+    "closing": null,
+    "opening": "2026-10-27T00:00:00.000Z"
+  },
   "UK Finance::niw3zsn28z": {
     "closing": null,
     "opening": null
